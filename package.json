@@ -1,0 +1,31 @@
+{
+  "name": "test_parcel",
+  "version": "1.0.0",
+  "description": "test_Parcel",
+  "main": "src/index.html",
+  "source": "src/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "parcel src/*.html",
+    "build": "parcel build src/*.html --public-url /test_Parcel/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GutMaria/test_Parcel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GutMaria/test_Parcel/issues"
+  },
+  "homepage": "https://GutMaria.github.io/test_Parcel/",
+  "devDependencies": {
+    "parcel": "^2.8.3",
+    "parcel-bundler": "^1.12.5"
+  },
+  "dependencies": {
+    "@vimeo/player": "^2.18.0",
+    "lodash.throttle": "^4.1.1",
+    "simplelightbox": "^2.12.1"
+  }
+}
