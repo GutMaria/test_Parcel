@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js"],"names":["console","log"],"mappings":"AAAAA,OAAO,CAACC,GAAG,CAAC,cAAc,CAAC;AAC3BD,OAAO,CAACC,GAAG,CAAC,QAAQ,CAAC","file":"src.e31bb0bc.js","sourceRoot":"..\\src","sourcesContent":["console.log('Hello world!');\r\nconsole.log('Працює');\r\n"]}
